@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Basavaraj M. Hubli
-- 👀 I’m interested in C, C++, Rust, Python, GDScript, Game Development and 3D Art!
-- 🌱 I’m currently learning Rust, C++, Godot
-- 📫 Reach me: basavarajmh3@gmail.com
+- 👋 Hi, I’m Basavaraj M. Hubli, call sign - Bash
+- 🔧 I specialize in Virtual Prototyping and hardware modeling
+- 🎮 Off the clock, I build games in Godot - where logic meets creativity
+- 🎨 I also enjoy crafting 2D and 3D art, experimenting with visuals that bring ideas to life, whether in a game or a prototype
 
-I like to do both ends of the spectrum - Tech and Art! A little bit of that and this!
+All in all, I like to do both ends of the spectrum - Tech and Art!
